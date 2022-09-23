@@ -1,2 +1,2 @@
-# SNOW-Platform-Implementation
-SNOW Platform Integration
+# SN-Platform-Implementation
+SN Platform Integration
